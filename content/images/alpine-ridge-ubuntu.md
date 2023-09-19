@@ -64,7 +64,7 @@ These are listed in order of apperence in the video.
 
 `sudo snap list` show apps installed with snap
 
-`sudo snap removed` remove apps installed with snap
+`sudo snap remove <application name>` remove apps installed with snap
 
 `tree` show a file tree
 
