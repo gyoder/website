@@ -1,4 +1,4 @@
-baseURL = "http://qyvo.me/"
+baseURL = "http://qyvo.tech/"
 languageCode = "en-us"
 title = "Qyvo"
 paginate     = 10
