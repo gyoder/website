@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://qyvo.me/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Qyvo"
 paginate     = 10
 
 [params]
@@ -37,4 +37,4 @@ paginate     = 10
   [[menu.main]]
     identifier = "images"
     name       = "images"
-    url        = "/images"
+    url        = "/posts/images/"
