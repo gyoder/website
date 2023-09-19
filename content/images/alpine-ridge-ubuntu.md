@@ -15,11 +15,17 @@ You can download the image [here](https://drive.google.com/file/d/10h6ObBbfTegMB
 
 ## Useful Resources
 [Linux, Visually](https://youtube.com/playlist?list=PLcn9NsWbb8s4wQrX0Qi5G4kRifQHxCV9-&si=SxfXYgGNyfqI3Nz8)
+
 [Linux, Visually: Package Management](https://youtu.be/Bd93or6XaLg?si=PB2LXSpSkLm2DcKc)
+
 [Linux, Visually: SSH](https://youtu.be/csamazU4rjY?si=gGdTxeZrR3ZPLGdR)
+
 [Linux, Visually: Ports and Processes](https://youtu.be/u6KYekiWKzM?si=aHT2IvsGRqLiIrXd)
+
 [60 Linux commands to know](https://youtu.be/gd7BXuUQ91w?si=6SljmE54Tzw_Nx7m)
+
 [Introducing the Linux Terminal](https://youtu.be/VbEx7B_PTOE?t=322&si=qBbdOsQ0HIRvQB5I)
+
 [Linux for Hackers](https://youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&si=b9rF2Euwlwiyf4aN)
 
 ## Commands Used
