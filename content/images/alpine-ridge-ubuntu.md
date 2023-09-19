@@ -11,7 +11,7 @@ This image is for complete beginners who have very little experiance using Linux
 You can download the image [here](https://drive.google.com/file/d/10h6ObBbfTegMBQ_D0vdo7yeopBPfuYks/view?usp=sharing). Please attempt the image before watching the video. Almost all of the vulnerabilities are in the ReadMe of the image.
 
 ## Video Walkthrough
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dN8Yczzix3s?si=0wKJJTYQdHMC2JPm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[There is a video walkthrough here.](https://www.youtube.com/embed/dN8Yczzix3s?si=0wKJJTYQdHMC2JPm) You should be able to get most of the points in the image with the ReadMe and Google if you are a complete beginner. This is mostly for finding the vulnerabilities that you have missed after attemting it and learning why they are vulnerabilities.
 
 ## Useful Resources
 [Linux, Visually](https://youtube.com/playlist?list=PLcn9NsWbb8s4wQrX0Qi5G4kRifQHxCV9-&si=SxfXYgGNyfqI3Nz8)
