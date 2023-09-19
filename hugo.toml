@@ -2,14 +2,3 @@ baseURL = 'http://qyvo.me/'
 languageCode = 'en-us'
 title = 'Qyvo'
 theme = 'hello-friend-ng'
-contentdir: content
-
-layoutdir: layouts
-
-publishdir: public
-
-paginate: 5
-
-title: Kinsta Static Site
-
-description: "This is a static site generated with Hugo!"
