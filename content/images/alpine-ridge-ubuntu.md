@@ -15,7 +15,7 @@ You can download the image [here](https://drive.google.com/file/d/10h6ObBbfTegMB
 ## Video Walkthrough
 [There is a video walkthrough here.](https://www.youtube.com/embed/dN8Yczzix3s?si=0wKJJTYQdHMC2JPm) You should be able to get most of the points in the image with the ReadMe and Google if you are a complete beginner. This is mostly for finding the vulnerabilities that you have missed after attemting it and learning why they are vulnerabilities.
 
-{{ <youtube dN8Yczzix3s> }}
+{{< youtube dN8Yczzix3s >}}
 
 ## Useful Resources
 [Linux, Visually](https://youtube.com/playlist?list=PLcn9NsWbb8s4wQrX0Qi5G4kRifQHxCV9-&si=SxfXYgGNyfqI3Nz8)
