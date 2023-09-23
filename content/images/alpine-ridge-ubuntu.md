@@ -8,7 +8,9 @@ This image is for complete beginners who have very little experiance using Linux
 
 ## Image Download
 
-You can download the image [here](https://drive.google.com/file/d/10h6ObBbfTegMBQ_D0vdo7yeopBPfuYks/view?usp=sharing). Please attempt the image before watching the video. Almost all of the vulnerabilities are in the ReadMe of the image. Extraction password is `TiredofWork50`
+You can download the image [here](https://drive.google.com/file/d/10h6ObBbfTegMBQ_D0vdo7yeopBPfuYks/view?usp=sharing). Please attempt the image before watching the video. Almost all of the vulnerabilities are in the ReadMe of the image.
+
+ **Extraction password is `TiredofWork50`**
 
 ## Video Walkthrough
 [There is a video walkthrough here.](https://www.youtube.com/embed/dN8Yczzix3s?si=0wKJJTYQdHMC2JPm) You should be able to get most of the points in the image with the ReadMe and Google if you are a complete beginner. This is mostly for finding the vulnerabilities that you have missed after attemting it and learning why they are vulnerabilities.
