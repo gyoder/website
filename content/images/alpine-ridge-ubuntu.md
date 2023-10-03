@@ -79,3 +79,9 @@ These are listed in order of apperence in the video.
 `sudo systemctl disable <service>` disable a service from running on startup
 
 `crontab -e` edit crontabs
+
+## Credits
+
+Special thanks to mobmaker on discord for testing this image
+
+Thanks to Ryan for finding mistakes in my commands
